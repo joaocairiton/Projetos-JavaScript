@@ -202,3 +202,18 @@ nav .search-icon {
   }
 }
 /*=====FIM NAV-BAR==========*/
+img.img-thumbnail {
+  width: 50%;
+  height: 80%;
+  
+  box-shadow: 0 0 10px rgb(247, 245, 245);
+}
+.container {
+  height: 80%;
+  width: 80%;
+  border: 2px solid #fff;
+
+}
+.title {
+  font-size: 14px;
+}
